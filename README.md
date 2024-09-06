@@ -1,4 +1,3 @@
-# A Python program that can encrypt and decrypt text using the Caesar Cipher algorithm. Users are allow to input their shift value to perform encryption and decryption.
 # Function to encrypt text using Caesar Cipher
 def encrypt(text, shift):
     encrypted_text = ""
